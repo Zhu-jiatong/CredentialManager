@@ -1,7 +1,7 @@
 #if !defined(_CredentialManager_h)
 #define _CredentialManager_h
 
-#include <DatabaseConnection.h>
+#include "SQLiteDatabaseManager/src/DatabaseConnection.h"
 
 class CredentialManager
 {

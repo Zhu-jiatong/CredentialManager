@@ -1,3 +1,0 @@
-[submodule "src/SQLiteDatabaseManager"]
-	path = src/SQLiteDatabaseManager
-	url = ../SQLiteDatabaseManager
